@@ -2,7 +2,7 @@ Olá! Me chamo Lucas Prado.
 
 👨‍💼 Sou desenvolvedor Front-End, venho trabalhando com desenvolvimento web há mais de 2 anos, focando em tecnologias como, JavaScript, Node.js, Next.js, React.js, CSS, HTML...
 
-📚 Sigo uma rotina constante de estudo, buscando sempre me aprimorar da melhor maneira possível,
+📚 Sigo uma rotina constante de estudo, buscando sempre me aprimorar da melhor maneira possível
 para realizar projetos complexos e funcionais, atuando com as principais tecnologias do mercado.
 
 💫Soft Skills:
